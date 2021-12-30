@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "blockvela",
+			"boxState": "normal",
+			"expression": "ready",
+			"text": "I like rap battling with you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "Hey, he has a girlfriend you know."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockvela",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "I meant figuratively not literally."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah not everyone is obsessed with me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You do realize we had to deal with fangirls in past."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So. Who's next?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockface",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "I'm still saying no."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockbite",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Fuck it. I'm rap battling with him to pass time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockbite",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "My phone's battery just died."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Cool. Let's rap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockbite",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Hold up. Just beep boping is boring to me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockbite",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "So is it okay to shoot you with my gun?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah. Because I have encoutered several guys trying to shoot me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockbite",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Assisnation huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockbite",
+			"boxState": "angry",
+			"expression": "ready",
+			"text": "Let's do this."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(If you see white notes. Press it or you'll get shot by blockbite's gun and lose 50% of your health)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockshot",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait what now?"
+		}
+	]
+}

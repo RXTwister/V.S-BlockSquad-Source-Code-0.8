@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "BlockVela_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				-165,
+				20
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"loop_name": "BlockVela_Normal",
+			"idle_name": "BlockVela_Normal"
+		},
+		{
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-165,
+				20
+			],
+			"idle_name": "BlockVela_Confused",
+			"loop_name": "BlockVela_Confused"
+		},
+		{
+			"loop_name": "BlockVela_Ready",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"idle_name": "BlockVela_Ready",
+			"anim": "ready",
+			"loop_offsets": [
+				-165,
+				20
+			]
+		},
+		{
+			"loop_name": "BlockVela_Annoyed",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"idle_name": "BlockVela_Annoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				-165,
+				20
+			]
+		},
+		{
+			"loop_name": "BlockVela_Holding",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"idle_name": "BlockVela_Holding",
+			"anim": "holding",
+			"loop_offsets": [
+				-165,
+				20
+			]
+		}
+	]
+}

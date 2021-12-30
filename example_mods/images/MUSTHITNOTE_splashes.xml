@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MUSTHITNOTE_splashes.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="note splash sparkle blue 10000" x="0" y="0" width="219" height="214" frameX="-24" frameY="-10" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note splash sparkle blue 10001" x="219" y="0" width="239" height="215" frameX="-30" frameY="-17" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note splash sparkle blue 10002" x="458" y="0" width="273" height="220" frameX="-12" frameY="-14" frameWidth="306" frameHeight="254"/>
+	<SubTexture name="note splash sparkle blue 10003" x="0" y="220" width="306" height="254"/>
+</TextureAtlas>

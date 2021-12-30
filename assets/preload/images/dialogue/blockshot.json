@@ -1,0 +1,63 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "BlockShot_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				-165,
+				20
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"loop_name": "BlockShot_Normal",
+			"idle_name": "BlockShot_Normal"
+		},
+		{
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-165,
+				20
+			],
+			"idle_name": "BlockShot_Confused",
+			"loop_name": "BlockShot_Confused"
+		},
+		{
+			"loop_name": "BlockShot_Ready",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"idle_name": "BlockShot_Ready",
+			"anim": "ready",
+			"loop_offsets": [
+				-165,
+				20
+			]
+		},
+		{
+			"loop_name": "BlockShot_Annoyed",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"idle_name": "BlockShot_Annoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				-165,
+				20
+			]
+		}
+	]
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlockShot_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlockShot_Annoyed0000" x="0" y="0" width="339" height="507"/>
+	<SubTexture name="BlockShot_Confused0000" x="339" y="0" width="339" height="507"/>
+	<SubTexture name="BlockShot_Exhausted0000" x="678" y="0" width="311" height="519"/>
+	<SubTexture name="BlockShot_Normal0000" x="989" y="0" width="339" height="507"/>
+	<SubTexture name="BlockShot_Ready0000" x="1328" y="0" width="303" height="420"/>
+</TextureAtlas>

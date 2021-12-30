@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlockBite_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlockBite_Annoyed0000" x="0" y="0" width="329" height="497"/>
+	<SubTexture name="BlockBite_Confused0000" x="329" y="0" width="329" height="511"/>
+	<SubTexture name="BlockBite_Normal0000" x="658" y="0" width="329" height="511"/>
+	<SubTexture name="BlockBite_Pissed0000" x="0" y="511" width="329" height="511"/>
+	<SubTexture name="BlockBite_Ready0000" x="329" y="511" width="298" height="511"/>
+</TextureAtlas>

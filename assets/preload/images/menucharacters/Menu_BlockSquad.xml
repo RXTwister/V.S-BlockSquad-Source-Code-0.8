@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_BlockSquad.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlockSquadMainMenu0000" x="0" y="0" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0001" x="553" y="0" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0002" x="553" y="0" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0003" x="1106" y="0" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0004" x="1106" y="0" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0005" x="0" y="359" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0006" x="0" y="359" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0007" x="553" y="359" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0008" x="1106" y="359" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0009" x="1106" y="359" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0010" x="0" y="718" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0011" x="0" y="718" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0012" x="553" y="718" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0013" x="1106" y="718" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0014" x="1106" y="718" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0015" x="0" y="1077" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0016" x="0" y="1077" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0017" x="553" y="1077" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0018" x="553" y="1077" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0019" x="1106" y="1077" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0020" x="0" y="1436" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0021" x="0" y="1436" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0022" x="553" y="1436" width="553" height="359"/>
+	<SubTexture name="BlockSquadMainMenu0023" x="553" y="1436" width="553" height="359"/>
+</TextureAtlas>

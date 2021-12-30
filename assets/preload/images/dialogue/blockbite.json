@@ -1,0 +1,76 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "BlockBite_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				-165,
+				20
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"loop_name": "BlockBite_Normal",
+			"idle_name": "BlockBite_Normal"
+		},
+		{
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-165,
+				20
+			],
+			"idle_name": "BlockBite_Confused",
+			"loop_name": "BlockBite_Confused"
+		},
+		{
+			"loop_name": "BlockBite_Ready",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"idle_name": "BlockBite_Ready",
+			"anim": "ready",
+			"loop_offsets": [
+				-165,
+				20
+			]
+		},
+		{
+			"loop_name": "BlockBite_Annoyed",
+			"idle_offsets": [
+				-165,
+				7
+			],
+			"idle_name": "BlockBite_Annoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				-165,
+				7
+			]
+		},
+		{
+			"loop_name": "BlockBite_Pissed",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"idle_name": "BlockBite_Pissed",
+			"anim": "pissed",
+			"loop_offsets": [
+				-165,
+				20
+			]
+		}
+	]
+}

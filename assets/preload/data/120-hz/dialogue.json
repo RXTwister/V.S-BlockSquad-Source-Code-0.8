@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "Exhausted",
+			"text": "*cough* *cough* *inhaling* *cough* *cough*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "blockshot"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockshot",
+			"boxState": "normal",
+			"expression": "Exhausted",
+			"text": "I did not expect rap battling *cough* to be this hard."
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah. They can be exhausting sometimes.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockshot",
+			"boxState": "normal",
+			"expression": "Exhausted",
+			"text": "Yeah i'm done for today. *cough*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What about the guy who has jaws."
+		},
+		{
+			"expression": "normal",
+			"text": "Nah. I'll pass.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "blockbite"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The guy who wears a mask."
+		},
+		{
+			"expression": "normal",
+			"text": "Ehhhhhh. No",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "blockface"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The girl who wears that T-Shirt"
+		},
+		{
+			"expression": "normal",
+			"text": "Welllllll.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "blockvela"
+		},
+		{
+			"expression": "ready",
+			"text": "Heck yeah.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "blockvela"
+		},
+		{
+			"expression": "talk",
+			"text": "How many microphones do you have?.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "I always carry a lot of stuff as a first aid kit.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "blockvela"
+		},
+		{
+			"expression": "confused",
+			"text": "Still wonders how she can carry a shit ton of stuff",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "blockface"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ooooookay"
+		},
+		{
+			"expression": "talk",
+			"text": "Next song.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "normal",
+			"text": "Wanna throw your finger at toxic people in the meantime?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "blockface"
+		},
+		{
+			"expression": "ready",
+			"text": "Fuck, Yeah!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "blockbite"
+		}
+	]
+}

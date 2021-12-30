@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlockBiteAssets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlockBite_Down0000" x="0" y="0" width="565" height="681" frameX="-1" frameY="-1" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Down0001" x="0" y="0" width="565" height="681" frameX="-1" frameY="-1" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Down0002" x="565" y="0" width="574" height="678" frameX="0" frameY="-3" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Down0003" x="565" y="0" width="574" height="678" frameX="0" frameY="-3" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Down0004" x="1139" y="0" width="568" height="682" frameX="0" frameY="0" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Down0005" x="1139" y="0" width="568" height="682" frameX="0" frameY="0" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Down0006" x="1139" y="0" width="568" height="682" frameX="0" frameY="0" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Down0007" x="1139" y="0" width="568" height="682" frameX="0" frameY="0" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Down0008" x="1139" y="0" width="568" height="682" frameX="0" frameY="0" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Down0009" x="1139" y="0" width="568" height="682" frameX="0" frameY="0" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Down0010" x="1139" y="0" width="568" height="682" frameX="0" frameY="0" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Down0011" x="1139" y="0" width="568" height="682" frameX="0" frameY="0" frameWidth="574" frameHeight="682"/>
+	<SubTexture name="BlockBite_Gun_Shot0000" x="1707" y="0" width="496" height="801" frameX="-2" frameY="-2" frameWidth="498" frameHeight="803"/>
+	<SubTexture name="BlockBite_Gun_Shot0001" x="2203" y="0" width="496" height="801" frameX="-2" frameY="-2" frameWidth="498" frameHeight="803"/>
+	<SubTexture name="BlockBite_Gun_Shot0002" x="2699" y="0" width="496" height="800" frameX="-2" frameY="-3" frameWidth="498" frameHeight="803"/>
+	<SubTexture name="BlockBite_Gun_Shot0003" x="3195" y="0" width="496" height="801" frameX="-2" frameY="-2" frameWidth="498" frameHeight="803"/>
+	<SubTexture name="BlockBite_Gun_Shot0004" x="0" y="801" width="497" height="801" frameX="-1" frameY="-2" frameWidth="498" frameHeight="803"/>
+	<SubTexture name="BlockBite_Gun_Shot0005" x="497" y="801" width="497" height="802" frameX="-1" frameY="-1" frameWidth="498" frameHeight="803"/>
+	<SubTexture name="BlockBite_Gun_Shot0006" x="994" y="801" width="497" height="801" frameX="-1" frameY="-2" frameWidth="498" frameHeight="803"/>
+	<SubTexture name="BlockBite_Gun_Shot0007" x="1491" y="801" width="497" height="801" frameX="-1" frameY="-2" frameWidth="498" frameHeight="803"/>
+	<SubTexture name="BlockBite_Gun_Shot0008" x="1988" y="801" width="498" height="803"/>
+	<SubTexture name="BlockBite_Gun_Shot0009" x="1988" y="801" width="498" height="803"/>
+	<SubTexture name="BlockBite_Gun_Shot0010" x="1988" y="801" width="498" height="803"/>
+	<SubTexture name="BlockBite_Gun_Shot0011" x="1988" y="801" width="498" height="803"/>
+	<SubTexture name="BlockBite_Idle0000" x="2486" y="801" width="318" height="753" frameX="0" frameY="-45" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Idle0001" x="2804" y="801" width="310" height="771" frameX="-10" frameY="-28" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Idle0002" x="2804" y="801" width="310" height="771" frameX="-10" frameY="-28" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Idle0003" x="3114" y="801" width="319" height="789" frameX="-3" frameY="-11" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Idle0004" x="3114" y="801" width="319" height="789" frameX="-3" frameY="-11" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Idle0005" x="3433" y="801" width="314" height="800" frameX="-9" frameY="0" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Idle0006" x="3433" y="801" width="314" height="800" frameX="-9" frameY="0" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Idle0007" x="3747" y="801" width="320" height="800" frameX="-2" frameY="0" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Idle0008" x="0" y="1604" width="319" height="800" frameX="-4" frameY="0" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Idle0009" x="0" y="1604" width="319" height="800" frameX="-4" frameY="0" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Idle0010" x="319" y="1604" width="321" height="800" frameX="-1" frameY="0" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Idle0011" x="319" y="1604" width="321" height="800" frameX="-1" frameY="0" frameWidth="323" frameHeight="800"/>
+	<SubTexture name="BlockBite_Left0000" x="640" y="1604" width="579" height="729" frameX="-23" frameY="0" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Left0001" x="640" y="1604" width="579" height="729" frameX="-23" frameY="0" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Left0002" x="1219" y="1604" width="602" height="716" frameX="0" frameY="-13" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Left0003" x="1219" y="1604" width="602" height="716" frameX="0" frameY="-13" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Left0004" x="1821" y="1604" width="595" height="726" frameX="-7" frameY="-3" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Left0005" x="1821" y="1604" width="595" height="726" frameX="-7" frameY="-3" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Left0006" x="1821" y="1604" width="595" height="726" frameX="-7" frameY="-3" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Left0007" x="1821" y="1604" width="595" height="726" frameX="-7" frameY="-3" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Left0008" x="1821" y="1604" width="595" height="726" frameX="-7" frameY="-3" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Left0009" x="1821" y="1604" width="595" height="726" frameX="-7" frameY="-3" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Left0010" x="1821" y="1604" width="595" height="726" frameX="-7" frameY="-3" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Left0011" x="1821" y="1604" width="595" height="726" frameX="-7" frameY="-3" frameWidth="602" frameHeight="729"/>
+	<SubTexture name="BlockBite_Right0000" x="2416" y="1604" width="573" height="746" frameX="0" frameY="0" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Right0001" x="2416" y="1604" width="573" height="746" frameX="0" frameY="0" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Right0002" x="2989" y="1604" width="580" height="740" frameX="0" frameY="-6" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Right0003" x="2989" y="1604" width="580" height="740" frameX="0" frameY="-6" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Right0004" x="0" y="2404" width="564" height="738" frameX="0" frameY="-8" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Right0005" x="0" y="2404" width="564" height="738" frameX="0" frameY="-8" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Right0006" x="0" y="2404" width="564" height="738" frameX="0" frameY="-8" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Right0007" x="0" y="2404" width="564" height="738" frameX="0" frameY="-8" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Right0008" x="0" y="2404" width="564" height="738" frameX="0" frameY="-8" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Right0009" x="0" y="2404" width="564" height="738" frameX="0" frameY="-8" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Right0010" x="0" y="2404" width="564" height="738" frameX="0" frameY="-8" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Right0011" x="0" y="2404" width="564" height="738" frameX="0" frameY="-8" frameWidth="580" frameHeight="746"/>
+	<SubTexture name="BlockBite_Up0000" x="564" y="2404" width="520" height="842" frameX="-9" frameY="-3" frameWidth="529" frameHeight="846"/>
+	<SubTexture name="BlockBite_Up0001" x="564" y="2404" width="520" height="842" frameX="-9" frameY="-3" frameWidth="529" frameHeight="846"/>
+	<SubTexture name="BlockBite_Up0002" x="1084" y="2404" width="529" height="845" frameX="0" frameY="0" frameWidth="529" frameHeight="846"/>
+	<SubTexture name="BlockBite_Up0003" x="1084" y="2404" width="529" height="845" frameX="0" frameY="0" frameWidth="529" frameHeight="846"/>
+	<SubTexture name="BlockBite_Up0004" x="1613" y="2404" width="521" height="846" frameX="-8" frameY="0" frameWidth="529" frameHeight="846"/>
+	<SubTexture name="BlockBite_Up0005" x="1613" y="2404" width="521" height="846" frameX="-8" frameY="0" frameWidth="529" frameHeight="846"/>
+	<SubTexture name="BlockBite_Up0006" x="1613" y="2404" width="521" height="846" frameX="-8" frameY="0" frameWidth="529" frameHeight="846"/>
+	<SubTexture name="BlockBite_Up0007" x="1613" y="2404" width="521" height="846" frameX="-8" frameY="0" frameWidth="529" frameHeight="846"/>
+	<SubTexture name="BlockBite_Up0008" x="1613" y="2404" width="521" height="846" frameX="-8" frameY="0" frameWidth="529" frameHeight="846"/>
+	<SubTexture name="BlockBite_Up0009" x="1613" y="2404" width="521" height="846" frameX="-8" frameY="0" frameWidth="529" frameHeight="846"/>
+	<SubTexture name="BlockBite_Up0010" x="1613" y="2404" width="521" height="846" frameX="-8" frameY="0" frameWidth="529" frameHeight="846"/>
+	<SubTexture name="BlockBite_Up0011" x="1613" y="2404" width="521" height="846" frameX="-8" frameY="0" frameWidth="529" frameHeight="846"/>
+</TextureAtlas>

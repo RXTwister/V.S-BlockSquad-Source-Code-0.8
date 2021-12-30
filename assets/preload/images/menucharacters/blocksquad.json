@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "BlockSquadMainMenu",
+	"position": [
+		200,
+		0
+	],
+	"scale": 1,
+	"image": "Menu_BlockSquad"
+}

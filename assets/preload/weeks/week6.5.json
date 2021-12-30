@@ -1,0 +1,57 @@
+{
+	"storyName": "Streetway battle",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"blocksquad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Rapped-Off",
+			"blockshot",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"120-hz",
+			"blockvela",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Overvolume",
+			"blockbite",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"F-Minor",
+			"blockface",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlockFace_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlockFace_Annoyed0000" x="0" y="0" width="413" height="485"/>
+	<SubTexture name="BlockFace_Annoyed0001" x="0" y="0" width="413" height="485"/>
+	<SubTexture name="BlockFace_Annoyed0002" x="0" y="0" width="413" height="485"/>
+	<SubTexture name="BlockFace_Annoyed0003" x="0" y="0" width="413" height="485"/>
+	<SubTexture name="BlockFace_Annoyed0004" x="0" y="0" width="413" height="485"/>
+	<SubTexture name="BlockFace_Confused0000" x="413" y="0" width="413" height="485"/>
+	<SubTexture name="BlockFace_Confused0001" x="413" y="0" width="413" height="485"/>
+	<SubTexture name="BlockFace_Confused0002" x="413" y="0" width="413" height="485"/>
+	<SubTexture name="BlockFace_Confused0003" x="413" y="0" width="413" height="485"/>
+	<SubTexture name="BlockFace_Confused0004" x="413" y="0" width="413" height="485"/>
+	<SubTexture name="BlockFace_Idle0000" x="826" y="0" width="413" height="478"/>
+	<SubTexture name="BlockFace_Idle0001" x="826" y="0" width="413" height="478"/>
+	<SubTexture name="BlockFace_Idle0002" x="826" y="0" width="413" height="478"/>
+	<SubTexture name="BlockFace_Idle0003" x="826" y="0" width="413" height="478"/>
+	<SubTexture name="BlockFace_Idle0004" x="826" y="0" width="413" height="478"/>
+	<SubTexture name="BlockFace_Pissed0000" x="1239" y="0" width="413" height="478"/>
+	<SubTexture name="BlockFace_Pissed0001" x="1239" y="0" width="413" height="478"/>
+	<SubTexture name="BlockFace_Pissed0002" x="1239" y="0" width="413" height="478"/>
+	<SubTexture name="BlockFace_Pissed0003" x="1239" y="0" width="413" height="478"/>
+	<SubTexture name="BlockFace_Pissed0004" x="1239" y="0" width="413" height="478"/>
+	<SubTexture name="BlockFace_Ready0000" x="1652" y="0" width="393" height="419"/>
+	<SubTexture name="BlockFace_Ready0001" x="1652" y="0" width="393" height="419"/>
+	<SubTexture name="BlockFace_Ready0002" x="1652" y="0" width="393" height="419"/>
+	<SubTexture name="BlockFace_Ready0003" x="1652" y="0" width="393" height="419"/>
+	<SubTexture name="BlockFace_Ready0004" x="1652" y="0" width="393" height="419"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlockDrunkAssets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlockDrunk_Idle0000" x="0" y="0" width="396" height="760" frameX="0" frameY="-32" frameWidth="396" frameHeight="792"/>
+	<SubTexture name="BlockDrunk_Idle0001" x="396" y="0" width="380" height="774" frameX="-13" frameY="-18" frameWidth="396" frameHeight="792"/>
+	<SubTexture name="BlockDrunk_Idle0002" x="396" y="0" width="380" height="774" frameX="-13" frameY="-18" frameWidth="396" frameHeight="792"/>
+	<SubTexture name="BlockDrunk_Idle0003" x="776" y="0" width="368" height="784" frameX="-22" frameY="-8" frameWidth="396" frameHeight="792"/>
+	<SubTexture name="BlockDrunk_Idle0004" x="776" y="0" width="368" height="784" frameX="-22" frameY="-8" frameWidth="396" frameHeight="792"/>
+	<SubTexture name="BlockDrunk_Idle0005" x="1144" y="0" width="361" height="791" frameX="-27" frameY="-1" frameWidth="396" frameHeight="792"/>
+	<SubTexture name="BlockDrunk_Idle0006" x="1144" y="0" width="361" height="791" frameX="-27" frameY="-1" frameWidth="396" frameHeight="792"/>
+	<SubTexture name="BlockDrunk_Idle0007" x="1505" y="0" width="361" height="792" frameX="-27" frameY="0" frameWidth="396" frameHeight="792"/>
+	<SubTexture name="BlockDrunk_Idle0008" x="1505" y="0" width="361" height="792" frameX="-27" frameY="0" frameWidth="396" frameHeight="792"/>
+	<SubTexture name="BlockDrunk_Idle0009" x="1505" y="0" width="361" height="792" frameX="-27" frameY="0" frameWidth="396" frameHeight="792"/>
+	<SubTexture name="BlockDrunk_Idle0010" x="1505" y="0" width="361" height="792" frameX="-27" frameY="0" frameWidth="396" frameHeight="792"/>
+	<SubTexture name="BlockDrunk_Idle0011" x="1505" y="0" width="361" height="792" frameX="-27" frameY="0" frameWidth="396" frameHeight="792"/>
+</TextureAtlas>
