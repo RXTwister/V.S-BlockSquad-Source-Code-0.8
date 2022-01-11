@@ -1,63 +1,76 @@
 {
+	"dialogue_pos": "left",
 	"position": [
 		0,
 		50
 	],
-	"dialogue_pos": "left",
 	"scale": 1.25,
-	"image": "BlockShot_Dialogue",
 	"animations": [
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				-165,
 				20
 			],
 			"anim": "normal",
-			"idle_offsets": [
+			"loop_offsets": [
 				-165,
 				20
 			],
-			"loop_name": "BlockShot_Normal",
-			"idle_name": "BlockShot_Normal"
+			"idle_name": "BlockShot_Normal",
+			"loop_name": "BlockShot_Normal"
 		},
 		{
-			"idle_offsets": [
+			"loop_offsets": [
 				-165,
 				20
 			],
 			"anim": "confused",
-			"loop_offsets": [
-				-165,
-				20
-			],
-			"idle_name": "BlockShot_Confused",
-			"loop_name": "BlockShot_Confused"
-		},
-		{
-			"loop_name": "BlockShot_Ready",
 			"idle_offsets": [
 				-165,
 				20
 			],
-			"idle_name": "BlockShot_Ready",
+			"loop_name": "BlockShot_Confused",
+			"idle_name": "BlockShot_Confused"
+		},
+		{
+			"loop_offsets": [
+				-165,
+				20
+			],
 			"anim": "ready",
-			"loop_offsets": [
-				-165,
-				20
-			]
-		},
-		{
-			"loop_name": "BlockShot_Annoyed",
 			"idle_offsets": [
 				-165,
 				20
 			],
-			"idle_name": "BlockShot_Annoyed",
+			"loop_name": "BlockShot_Ready",
+			"idle_name": "BlockShot_Ready"
+		},
+		{
+			"loop_offsets": [
+				-165,
+				20
+			],
 			"anim": "annoyed",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"loop_name": "BlockShot_Annoyed",
+			"idle_name": "BlockShot_Annoyed"
+		},
+		{
+			"loop_name": "BlockShot_Exhausted",
+			"idle_offsets": [
+				-165,
+				20
+			],
+			"idle_name": "BlockShot_Exhausted",
+			"anim": "Exhausted",
 			"loop_offsets": [
 				-165,
 				20
 			]
 		}
-	]
+	],
+	"image": "BlockShot_Dialogue"
 }

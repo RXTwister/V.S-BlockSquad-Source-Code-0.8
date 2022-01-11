@@ -63,8 +63,7 @@ class CreditsState extends MusicBeatState
 		#end
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
 		['Mod Developers'],
-		['RXTwister',			'rxtwister',		'Artist, Composer of Rapped-Off & 120-hz & Programmer.',				'https://twitter.com/Real_RXTwister',		'0xFFC30085'],
-		['BeatBot',			'beatbot',		'Composer of Overvolume & F-Minor.',				'https://twitter.com/TheNewRap15',		'0xFFC30085'],
+		['RXTwister',			'rxtwister',		'Artist, Composer & Programmer.',				'https://twitter.com/Real_RXTwister',		'0xFFC30085'],
 		[''],
 		['Thanks to'],
 		['TheZoroForce240', 'zoro', 'Made the multiple key support', 'https://www.youtube.com/channel/UCjXs9mcE531CrmaQrf0OkOw', '0xFF0056FF'],

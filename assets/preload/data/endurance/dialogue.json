@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "blockbite",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "(Wow he's way better than I thought)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockbite",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "So you survived that dreaded gun points."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yep. It's so easy when you avoid gun shots a 423 times."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So that means the guy wearing mask is up."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockface",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Alright, Alright you win. I'll rap battle with you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockface",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Only because blockbite did it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And perfect timing because it's getting dark."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Which is enough for one song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockface",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "One pretty long-ass song. So don't end up getting choked up."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Come on. I even survived a 20 minute song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockface",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "How the F-. You know what forget it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockface",
+			"boxState": "angry",
+			"expression": "ready",
+			"text": "Because I ain't holding anything back."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*This song doesn't have any gimmicks due to some issues. So try so beat this song without any shticks*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockvela",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You're doing that self-warning thing again."
+		}
+	]
+}

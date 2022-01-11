@@ -9,6 +9,7 @@
 		253
 	],
 	"startUnlocked": true,
+	"hideStoryMode": false,
 	"weekCharacters": [
 		"blocksquad",
 		"bf",
@@ -16,7 +17,7 @@
 	],
 	"songs": [
 		[
-			"Rapped-Off",
+			"Reloaded",
 			"blockshot",
 			[
 				255,
@@ -25,7 +26,7 @@
 			]
 		],
 		[
-			"120-hz",
+			"Introverted",
 			"blockvela",
 			[
 				255,
@@ -43,7 +44,7 @@
 			]
 		],
 		[
-			"F-Minor",
+			"Endurance",
 			"blockface",
 			[
 				0,
@@ -52,6 +53,5 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekName": "Custom Week"
 }

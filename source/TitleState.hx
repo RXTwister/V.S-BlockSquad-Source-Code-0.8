@@ -431,7 +431,7 @@ class TitleState extends MusicBeatState
 			switch (curBeat)
 			{
 				case 1:
-					createCoolText(['RXTwister', 'BeatBot'], 45);
+					createCoolText(['RXTwister', 'Without any help'], 45);
 				// credTextShit.visible = true;
 				case 3:
 					addMoreText('Presents', 45);
@@ -473,7 +473,7 @@ class TitleState extends MusicBeatState
 					addMoreText('VS BlockSquad');
 				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('Week 1 Release'); // credTextShit.text += '\nFunkin';
+					addMoreText('Round 1'); // credTextShit.text += '\nFunkin';
 
 				case 16:
 					skipIntro();

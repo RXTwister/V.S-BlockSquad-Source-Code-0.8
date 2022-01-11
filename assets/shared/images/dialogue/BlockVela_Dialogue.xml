@@ -2,9 +2,9 @@
 <TextureAtlas imagePath="BlockVela_Dialogue.png">
 	<!-- Created with Adobe Animate version 21.0.0.35450 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="BlockVela_Annoyed0000" x="0" y="0" width="295" height="531"/>
-	<SubTexture name="BlockVela_Confused0000" x="295" y="0" width="295" height="531"/>
-	<SubTexture name="BlockVela_Holding0000" x="590" y="0" width="270" height="531"/>
-	<SubTexture name="BlockVela_Normal0000" x="860" y="0" width="295" height="531"/>
-	<SubTexture name="BlockVela_Ready0000" x="1155" y="0" width="270" height="531"/>
+	<SubTexture name="BlockVela_Annoyed0000" x="0" y="0" width="291" height="531"/>
+	<SubTexture name="BlockVela_Confused0000" x="291" y="0" width="295" height="531"/>
+	<SubTexture name="BlockVela_Holding0000" x="586" y="0" width="270" height="531"/>
+	<SubTexture name="BlockVela_Normal0000" x="856" y="0" width="295" height="531"/>
+	<SubTexture name="BlockVela_Ready0000" x="1151" y="0" width="270" height="531"/>
 </TextureAtlas>

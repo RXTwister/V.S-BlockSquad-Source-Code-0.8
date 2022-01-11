@@ -1047,13 +1047,16 @@ class PlayState extends MusicBeatState
 					if(daSong == 'roses') FlxG.sound.play(Paths.sound('ANGRY'));
 					schoolIntro(doof);
 
-				case 'rapped-off':
+				case 'reloaded':
 				    startDialogue(dialogueJson);
 				
-				case '120-hz':
+				case 'introverted':
 				    startDialogue(dialogueJson);
 				
 				case 'overvolume':
+				    startDialogue(dialogueJson);
+
+				case 'endurance':
 				    startDialogue(dialogueJson);
 
 				default:

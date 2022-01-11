@@ -1,6 +1,6 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('Wall', 'streetWall', -600, -220);
+	makeLuaSprite('Wall', 'streetWall', -600, -470);
 	setScrollFactor('Wall', 1, 1);
 
 	makeLuaSprite('Bin', 'streetBin', 1200, 450);
