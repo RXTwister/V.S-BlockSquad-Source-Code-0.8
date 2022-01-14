@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Furry-Boy",
+			"blockfurry",
+			[
+				255,
+				0,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Only Freeplay",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
