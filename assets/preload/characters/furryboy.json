@@ -1,141 +1,141 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad idle dance",
+			"anim": "idle-loop",
 			"indices": [
 				10,
 				11,
 				12,
 				12
-			]
+			],
+			"name": "Dad idle dance"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-9,
 				10
 			],
-			"anim": "singLEFT-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"anim": "singLEFT-loop",
 			"indices": [
 				12,
 				13,
 				14,
 				15
-			]
+			],
+			"name": "Dad Sing Note LEFT"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				27
 			],
-			"anim": "singRIGHT-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"anim": "singRIGHT-loop",
 			"indices": [
 				15,
 				16,
 				17,
 				18
-			]
+			],
+			"name": "Dad Sing Note RIGHT"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-6,
 				50
 			],
-			"anim": "singUP-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"anim": "singUP-loop",
 			"indices": [
 				56,
 				57,
 				58,
 				59
-			]
+			],
+			"name": "Dad Sing Note UP"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				140,
 				-100
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "BlockFurry_Idle"
+			"fps": 24,
+			"name": "BlockFurry_Idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				14,
-				4
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-16,
+				25
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "BlockFurry_Up"
+			"fps": 24,
+			"name": "BlockFurry_Up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				21,
-				4
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-13,
+				14
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "BlockFurry_Left"
+			"fps": 24,
+			"name": "BlockFurry_Left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-39,
-				3
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-74,
+				-20
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "BlockFurry_Down"
+			"fps": 24,
+			"name": "BlockFurry_Down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				30,
-				0
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-6,
+				10
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BlockFurry_Right"
+			"fps": 24,
+			"name": "BlockFurry_Right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/FurryBoy",
 	"position": [
-		-50,
-		-220
+		-150,
+		-280
 	],
 	"healthicon": "blockfurry",
 	"flip_x": false,

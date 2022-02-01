@@ -1,134 +1,134 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad idle dance",
+			"anim": "idle-loop",
 			"indices": [
 				10,
 				11,
 				12,
 				12
-			]
+			],
+			"name": "Dad idle dance"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-9,
 				10
 			],
-			"anim": "singLEFT-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad Sing Note LEFT",
+			"anim": "singLEFT-loop",
 			"indices": [
 				12,
 				13,
 				14,
 				15
-			]
+			],
+			"name": "Dad Sing Note LEFT"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				27
 			],
-			"anim": "singRIGHT-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad Sing Note RIGHT",
+			"anim": "singRIGHT-loop",
 			"indices": [
 				15,
 				16,
 				17,
 				18
-			]
+			],
+			"name": "Dad Sing Note RIGHT"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				-6,
 				50
 			],
-			"anim": "singUP-loop",
+			"loop": true,
 			"fps": 24,
-			"name": "Dad Sing Note UP",
+			"anim": "singUP-loop",
 			"indices": [
 				56,
 				57,
 				58,
 				59
-			]
+			],
+			"name": "Dad Sing Note UP"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				140,
 				-100
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				120,
 				1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "BlockShot_Left"
+			"fps": 24,
+			"name": "BlockShot_Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-20
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "BlockShot_Down"
+			"fps": 24,
+			"name": "BlockShot_Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "BlockShot_Dance"
+			"fps": 24,
+			"name": "BlockShot_Dance",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-10,
 				15
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BlockShot_Right"
+			"fps": 24,
+			"name": "BlockShot_Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				60,
 				60
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "BlockShot_Up"
+			"fps": 24,
+			"name": "BlockShot_Up",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,

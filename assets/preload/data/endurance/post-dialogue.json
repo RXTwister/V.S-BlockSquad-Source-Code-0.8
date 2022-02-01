@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Holy hell that was long."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockface",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Uhh fuck I lost track of time AGAIN."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think we're done for today."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Soo uhh see you guys later I guess."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockshot",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Yeah we'll be going home."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockbite",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Seems like rhythm game looks fun to me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blockvela",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "I'll just stick to art and animation."
+		}
+	]
+}
